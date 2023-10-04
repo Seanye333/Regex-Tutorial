@@ -123,7 +123,7 @@ In URL Example:
 ## Author
 
 Thanks for reading the tutorial. Following is my github homepage: https://github.com/Seanye333
-
+https://gist.github.com/Seanye333/8cf9508b5024bde455ce50d1d8860d50
 ## Credit 
 Sepcially thanks to Jackson's page and geeksforgeeks to help develop this tutorial!  
  * https://gist.github.com/jacksonfdam/3000275
